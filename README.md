@@ -1,1 +1,1 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rizki6191&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki6191&layout=compact&theme=radical&hide_border=true" alt="Rizki6191 Top Languages" />
